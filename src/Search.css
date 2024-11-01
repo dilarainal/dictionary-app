@@ -1,0 +1,10 @@
+.Search-bar {
+  border: #61dafb 1px solid;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgb(95, 212, 245, 0.3);
+}
+
+.Search {
+  margin: 20px 10px;
+  padding: 5px 15px;
+}
