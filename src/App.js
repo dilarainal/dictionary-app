@@ -19,7 +19,7 @@ function App() {
         </a>
         {""} and is open-sourced on {""}
         <a
-          href="https://github.com/dilarainal/"
+          href="https://github.com/dilarainal/dictionary-app"
           target="_blank"
           rel="noreferrer"
         >
