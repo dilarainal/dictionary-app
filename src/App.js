@@ -1,5 +1,6 @@
 import "./App.css";
 import Search from "./Search";
+import Definition from "./Definition";
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <header className="App-header">
         <h1>Dictionary App</h1>
         <Search />
+        <Definition />
       </header>
       <footer>
         This project was coded by {""}

@@ -1,11 +1,7 @@
-.Search-bar {
+.Definition-box {
   border: #61dafb 1px solid;
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgb(95, 212, 245, 0.3);
   margin: 20px;
-}
-
-.Search {
-  margin: 20px 10px;
-  padding: 5px 15px;
+  text-align: left;
 }
