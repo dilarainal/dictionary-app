@@ -1,6 +1,7 @@
 import "./App.css";
 import Search from "./Search";
 import Definition from "./Definition";
+import Thesaurus from "./Thesaurus";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <h1>Dictionary App</h1>
         <Search />
         <Definition />
+        <Thesaurus />
       </header>
       <footer>
         This project was coded by {""}

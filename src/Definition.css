@@ -5,3 +5,9 @@
   margin: 20px;
   text-align: left;
 }
+
+h1,
+h2,
+p {
+  margin: 25px;
+}
